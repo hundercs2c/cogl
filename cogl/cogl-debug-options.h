@@ -154,13 +154,13 @@ OPT (DISABLE_NPOT_TEXTURES,
      N_("Root Cause"),
      "disable-npot-textures",
      N_("Disable non-power-of-two textures"),
-     N_("Makes Cogl think that the GL driver doesn't support NPOT textures "
+     N_("Makes Cogl think that the GL driver doesn’t support NPOT textures "
         "so that it will create sliced textures or textures with waste instead."))
 OPT (DISABLE_SOFTWARE_CLIP,
      N_("Root Cause"),
      "disable-software-clip",
      N_("Disable software clipping"),
-     N_("Disables Cogl's attempts to clip some rectangles in software."))
+     N_("Disables Cogl’s attempts to clip some rectangles in software."))
 OPT (SHOW_SOURCE,
      N_("Cogl Tracing"),
      "show-source",
