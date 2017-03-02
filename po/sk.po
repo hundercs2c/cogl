@@ -364,7 +364,7 @@ msgstr "Zakázať textúry, ktoré nie sú mocninou dvojky (NPOT)"
 # popis (description) ladiacej hodnoty
 #: ../cogl/cogl-debug-options.h:150
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Cogl bude pracovať ako keby ovládač GL nepodporoval textúry typu NPOT. "
@@ -377,7 +377,7 @@ msgstr "Zakázať softvérové orezávanie"
 
 # popis (description) ladiacej hodnoty
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr "Zakáže pokusy o softvérové orezanie niektorých obdĺžnikových tvarov."
 
 # formátovaný názov ladiacej hodnoty

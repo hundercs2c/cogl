@@ -278,7 +278,7 @@ msgstr "அடுக்கு இரன்டு என அல்லாத ட�
 
 #: ../cogl/cogl-debug-options.h:150
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "GL இயக்ககங்கள் NPOT டெக்ஸ்ச்சர்களை ஆதரிக்காது, ஆகவே அது கூறிட்ட டெக்ஸ்ச்சர்கள் அல்லது வீணான "
@@ -289,7 +289,7 @@ msgid "Disable software clipping"
 msgstr "மென்பொருள் கிளிப்பிங்கை முடக்கு"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr "மென்பொருளில் சில செவ்வகங்களைக் கிளிப் செய்ய Cogl எடுக்கும் முயற்சிகளை முடக்குகிறது."
 
 #: ../cogl/cogl-debug-options.h:160

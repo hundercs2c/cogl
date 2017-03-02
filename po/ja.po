@@ -270,7 +270,7 @@ msgid "Disable non-power-of-two textures"
 msgstr "2の累乗以外のサイズのテクスチャーの無効化"
 
 #: ../cogl/cogl-debug-options.h:150
-msgid "Makes Cogl think that the GL driver doesn't support NPOT textures so that it will create sliced textures or textures with waste instead."
+msgid "Makes Cogl think that the GL driver doesn’t support NPOT textures so that it will create sliced textures or textures with waste instead."
 msgstr "Cogl はスライスされたテクスチャーや代わりに無駄な部分を持つテクスチャーを作成されるように、GL ドライバーが NPOT テクスチャーをサポートしていないことを考慮しなければなりません。"
 
 #: ../cogl/cogl-debug-options.h:155
@@ -278,7 +278,7 @@ msgid "Disable software clipping"
 msgstr "ソフトウェアクリッピングの無効化"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr "一部の矩形をソフトウェアにてクリップする Cogl の試みを無効化します。"
 
 #: ../cogl/cogl-debug-options.h:160

@@ -278,7 +278,7 @@ msgstr "non-power-of-two టెక్చర్లు అచేతనంచేయ
 
 #: ../cogl/cogl-debug-options.h:150
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "GL డ్రైవర్ NPOT టెక్చర్సుకు తోడ్పాటునీయదని Cogl అనుకొనునట్లు చేయును అలా అది "
@@ -290,7 +290,7 @@ msgid "Disable software clipping"
 msgstr "సాఫ్టువేర్ క్లిప్పింగ్ అచేతనంచేయి"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr ""
 "సాఫ్టువేర్ నందు కొన్ని దీర్ఘచతురస్త్రాలను క్లిప్ చేయుటకు Cogl యొక్క "
 "ప్రయత్నాలను అచేతనంచేయును."

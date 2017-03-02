@@ -277,7 +277,7 @@ msgstr "Wyłącznie tekstur o rozmiarach niebędących potęgą liczby 2"
 
 #: cogl/cogl-debug-options.h:157
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Sprawia, że biblioteka Cogl uważa, że sterownik GL nie obsługuje tekstur "
@@ -288,7 +288,7 @@ msgid "Disable software clipping"
 msgstr "Wyłączenie programowego skracania"
 
 #: cogl/cogl-debug-options.h:163
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr ""
 "Wyłącza programowe próby przycinania niektórych prostokątów przez bibliotekę "
 "Cogl."

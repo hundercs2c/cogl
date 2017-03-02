@@ -276,7 +276,7 @@ msgstr "non-power-of-two গাঁথনি অসামৰ্থবান ক�
 
 #: ../cogl/cogl-debug-options.h:150
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Cogl এ ভাৱিবলে লয় যে GL ড্ৰাইভাৰে NPOT গাঁথনি সমৰ্থন নকৰে যাতে ই স্লাইচ্ড গাঁথনি "
@@ -287,7 +287,7 @@ msgid "Disable software clipping"
 msgstr "চফ্টৱেৰ ক্লিপিং অসামৰ্থবান কৰক"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr "চফ্টৱেৰত কিছুমান আয়ত ক্লিপ কৰাৰ Cogl ৰ চেষ্টা অসামৰ্থবান কৰক"
 
 #: ../cogl/cogl-debug-options.h:160

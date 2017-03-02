@@ -279,7 +279,7 @@ msgstr "दो संरचना के गैर सत्ता को अक
 
 #: ../cogl/cogl-debug-options.h:150
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Cogl को लगता है की GL  ड्राइवर NPOT बनावट का समर्थन नहीं करता है इसीलिए यह "
@@ -291,7 +291,7 @@ msgid "Disable software clipping"
 msgstr "सॉफ़्टवेयर क्लिपिंग अक्षम"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr ""
 "Cogl द्वारा सॉफ़्टवेयर में कुछ आयतों को क्लिप करने के प्रयास को अक्षम करता है."
 

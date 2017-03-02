@@ -277,7 +277,7 @@ msgstr "Искључи склопове који нису степен двој�
 
 #: ../cogl/cogl-debug-options.h:150
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Чини да Когл мисли да ГЛ управљачки програм не подржава НПОТ склопове тако "
@@ -288,7 +288,7 @@ msgid "Disable software clipping"
 msgstr "Искључи софтверско одсецање"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr "Искључује Коглове покушаје да одсече неке правоугаонике у софтверу."
 
 #: ../cogl/cogl-debug-options.h:160

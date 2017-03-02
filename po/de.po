@@ -293,7 +293,7 @@ msgstr "Nicht-Zweierpotenz-Texturen deaktivieren"
 # Siehe http://developer.gnome.org/cogl/stable/cogl-Textures.html
 #: ../cogl/cogl-debug-options.h:150
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Dies führt dazu, dass Cogl denkt, dass der GL-Treiber NPOT-Texturen nicht "
@@ -305,7 +305,7 @@ msgid "Disable software clipping"
 msgstr "Software-Clipping deaktivieren"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr ""
 "Versuche von Cogl deaktivieren, Rechtecke softwaretechnisch zu beschneiden."
 

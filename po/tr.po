@@ -279,7 +279,7 @@ msgstr "İkinin kuvveti olmayan dokuları kapat"
 
 #: ../cogl/cogl-debug-options.h:157
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Cogl 'un GL sürücülerinin NPOT dokularını desteklemediğini düşünmesini "
@@ -290,7 +290,7 @@ msgid "Disable software clipping"
 msgstr "Yazılımsal kırpmayı kapat"
 
 #: ../cogl/cogl-debug-options.h:163
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr ""
 "Cogl 'ın bazı dikdörtgenleri yazılımda kırpmaya çalışma girişimini kapatır"
 

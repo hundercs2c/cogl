@@ -275,10 +275,10 @@ msgstr "Disable non-power-of-two textures"
 
 #: ../cogl/cogl-debug-options.h:150
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 
 #: ../cogl/cogl-debug-options.h:155
@@ -286,8 +286,8 @@ msgid "Disable software clipping"
 msgstr "Disable software clipping"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
-msgstr "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
+msgstr "Disables Cogl’s attempts to clip some rectangles in software."
 
 #: ../cogl/cogl-debug-options.h:160
 msgid "Show source"

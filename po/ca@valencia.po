@@ -298,7 +298,7 @@ msgstr "Inhabilita les textures que no siguen potència de dos"
 
 #: cogl/cogl-debug-options.h:157
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Fa que la Cogl cregui que el controlador de GL no permet l'ús de textures "
@@ -309,7 +309,7 @@ msgid "Disable software clipping"
 msgstr "Inhabilita el retall per programari"
 
 #: cogl/cogl-debug-options.h:163
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr ""
 "Inhabilita els intents de la Cogl de retallar alguns rectangles amb "
 "programari."

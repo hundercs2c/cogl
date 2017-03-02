@@ -290,7 +290,7 @@ msgid "Disable non-power-of-two textures"
 msgstr "Onemogoči nekvadratne teksture"
 
 #: ../cogl/cogl-debug-options.h:150
-msgid "Makes Cogl think that the GL driver doesn't support NPOT textures so that it will create sliced textures or textures with waste instead."
+msgid "Makes Cogl think that the GL driver doesn’t support NPOT textures so that it will create sliced textures or textures with waste instead."
 msgstr "Vsili nastavitev, da gonilnik GL ne podpira tekstur NPOT in bo zato program Cogl ustvaril razrezane teksture."
 
 #: ../cogl/cogl-debug-options.h:155
@@ -298,7 +298,7 @@ msgid "Disable software clipping"
 msgstr "Onemogoči programski odrez"
 
 #: ../cogl/cogl-debug-options.h:156
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr "Onemogoči poskuse Cogl, da odreže nekatere pravokotnike v programju."
 
 #: ../cogl/cogl-debug-options.h:160

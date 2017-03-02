@@ -283,7 +283,7 @@ msgstr "Desactivar las texturas non-poténcias de dos"
 
 #: ../cogl/cogl-debug-options.h:157
 msgid ""
-"Makes Cogl think that the GL driver doesn't support NPOT textures so that it "
+"Makes Cogl think that the GL driver doesn’t support NPOT textures so that it "
 "will create sliced textures or textures with waste instead."
 msgstr ""
 "Fa pensar a Cogl que lo pilòt GL supòrta pas las texturas NPOT per que crèe "
@@ -294,7 +294,7 @@ msgid "Disable software clipping"
 msgstr "Desactivar la copadura logicial"
 
 #: ../cogl/cogl-debug-options.h:163
-msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgid "Disables Cogl’s attempts to clip some rectangles in software."
 msgstr ""
 "Empacha tota temptativa de Cogl de talhar certans rectangles dins los "
 "logicials."
