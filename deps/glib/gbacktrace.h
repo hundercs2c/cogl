@@ -48,7 +48,7 @@ G_BEGIN_DECLS
 #  define G_BREAKPOINT()        G_STMT_START{ __asm int 3h }G_STMT_END
 #elif defined (_MSC_VER)
 #  define G_BREAKPOINT()        G_STMT_START{ __debugbreak(); }G_STMT_END
-#elif defined (__alpha__) && !defined(__osf__) && defined (__GNUC__) && __GNUC__ >= 2
+#elif (defined (__alpha__) || defined (__sw_64__)) && !defined(__osf__) && defined (__GNUC__) && __GNUC__ >= 2
 #  define G_BREAKPOINT()        G_STMT_START{ __asm__ __volatile__ ("bpt"); }G_STMT_END
 #else   /* !__i386__ && !__alpha__ */
 #  define G_BREAKPOINT()        G_STMT_START{ raise (SIGTRAP); }G_STMT_END
